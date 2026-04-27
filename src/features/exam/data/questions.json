@@ -164,7 +164,7 @@
       "B": "Xe đạp (kể cả xe đạp máy, xe đạp điện), xe gắn máy, xe cơ giới dùng cho người khuyết tật và xe máy chuyên dùng.",
       "C": "Xe ô tô, máy kéo, rơ moóc hoặc sơ mi rơ moóc được kéo bởi xe ô tô, máy kéo."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -313,7 +313,7 @@
       "A": "Là thiết bị có đủ khả năng bảo đảm an toàn cho trẻ em ở tư thế ngồi hoặc nằm trên xe ô tô, được thiết kế để giảm nguy cơ chấn thương cho người dùng trong trường hợp xảy ra va chạm hoặc xe ô tô giảm tốc độ đột ngột, bằng cách hạn chế sự di chuyển của cơ thể trẻ em.",
       "B": "Là thiết bị có đủ khả năng bảo đảm an toàn cho trẻ em ở tư thế đứng hoặc nằm trên xe ô tô, được thiết kế để giảm nguy cơ chấn thương cho người dùng trong trường hợp xe ô tô lưu thông bình thường."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -332,7 +332,7 @@
       "B": "Đường chính, đường nhánh, đường gom, đường dành cho giao thông công cộng, đường nội bộ, đường dành riêng cho người đi bộ, người đi xe đạp và các đường khác.",
       "C": "Đường chính, đường nhánh, đường gom, đường bên, đường dành cho giao thông công cộng, đường dành riêng cho người đi bộ, người đi xe đạp và các đường khác."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -445,7 +445,7 @@
       "B": "Không bị nghiêm cấm.",
       "C": "Không bị nghiêm cấm, nếu nồng độ cồn trong máu ở mức nhẹ, có thể điều khiển phương tiện tham gia giao thông."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": true,
@@ -483,7 +483,7 @@
       "B": "Người được chở trên xe cơ giới.",
       "C": "Cả hai ý trên."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": true,
@@ -635,7 +635,7 @@
       "B": "Quan sát, giảm tốc độ hoặc dừng lại để bảo đảm an toàn cho người đi bộ, xe lăn của người khuyết tật qua đường.",
       "C": "Quan sát, tăng tốc độ và điều khiển phương tiện nhanh chóng đi qua."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "B",
     "explanation": "",
     "memoryTip": "",
     "isCritical": true,
@@ -718,7 +718,7 @@
       "B": "Theo tín hiệu đèn giao thông.",
       "C": "Theo biển báo hiệu đường bộ."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -793,7 +793,7 @@
       "A": "Không được cho trẻ em ngồi cùng hàng ghế với người lái xe, trừ loại xe ô tô chỉ có một hàng ghế; người lái xe phải sử dụng, hướng dẫn sử dụng thiết bị an toàn phù hợp cho trẻ em.",
       "B": "Cho trẻ em ngồi cùng hàng ghế với người lái xe, người lái xe phải sử dụng, hướng dẫn sử dụng thiết bị an toàn phù hợp cho trẻ em."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -945,7 +945,7 @@
       "B": "Để báo hiệu cho người tham gia giao thông đường bộ từ 22 giờ ngày hôm trước đến 05 giờ ngày hôm sau trong khu đông dân cư, khu vực cơ sở khám bệnh, chữa bệnh, trừ xe ưu tiên.",
       "C": "Cả hai ý trên."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -982,7 +982,7 @@
       "A": "Dùng tay cầm và sử dụng điện thoại hoặc thiết bị điện tử khác.",
       "B": "Chỉ được chở người trên thùng xe ô tô chở hàng trong trường hợp chở người đi làm nhiệm vụ cứu nạn, cứu hộ, phòng, chống thiên tai, dịch bệnh hoặc thực hiện nhiệm vụ khẩn cấp."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": true,
@@ -1001,7 +1001,7 @@
       "B": "Trên cầu có từ 02 làn xe trở lên.",
       "C": "Trên đường có 02 làn đường được phân chia làn bằng vạch kẻ nét đứt."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": true,
@@ -1039,7 +1039,7 @@
       "B": "Ở phía trước hoặc phía sau của phần đường dành cho người đi bộ qua đường, trên đường quốc lộ.",
       "C": "Cả hai ý trên."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": true,
@@ -1234,7 +1234,7 @@
       "C": "Đội mũ bảo hiểm; chạy xe đúng tốc độ quy định và chấp hành đúng quy tắc giao thông đường bộ.",
       "D": "Chở người ngồi sau dưới 16 tuổi."
     },
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": true,
@@ -1293,7 +1293,7 @@
       "B": "Người lái xe phải đội mũ bảo hiểm, người được chở trên xe không nhất thiết phải đội mũ bảo hiểm.",
       "C": "Phải đội mũ bảo hiểm nhưng không nhất thiết phải cài quai."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": true,
@@ -1312,7 +1312,7 @@
       "B": "Người đã uống rượu, bia; người trong cơ thể có chất ma tuý.",
       "C": "Cả hai ý trên."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -1448,7 +1448,7 @@
       "B": "Phải đội mũ bảo hiểm khi trời mưa gió hoặc trời quá nắng; có thể sử dụng ô, điện thoại di động, thiết bị âm thanh nhưng phải bảo đảm an toàn.",
       "C": "Phải đội mũ bảo hiểm khi cảm thấy mất an toàn giao thông hoặc khi chuẩn bị di chuyển quãng đường xa."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -1505,7 +1505,7 @@
       "B": "Xe thô sơ phải đi trên làn đường bên phải trong cùng, xe cơ giới, xe máy chuyên dùng đi trên làn đường bên trái.",
       "C": "Xe thô sơ phải đi trên làn đường bên phải trong cùng, xe cơ giới, xe máy chuyên dùng được đi trên tất cả các làn đường."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "B",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -1562,7 +1562,7 @@
       "B": "Tiếp tục đi cho đến khi đủ điều kiện an toàn, nếu xe sau vẫn xin vượt thì báo hiệu cho xe sau vượt.",
       "C": "Tăng tốc độ để báo hiệu cho xe xin vượt biết là chưa được vượt."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -1581,7 +1581,7 @@
       "B": "Nhanh chóng chuyển hướng để không gây trở ngại hoặc nguy hiểm cho người, phương tiện khác.",
       "C": "Ra tín hiệu chuyển hướng để yêu cầu các phương tiện khác dừng lại cho xe chuyển hướng di chuyển."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -1657,7 +1657,7 @@
       "B": "Một trong hai xe phải dừng lại cho xe kia đi qua mới được đi.",
       "C": "Tăng tốc độ, cho xe đi về bên phải theo chiều xe chạy của mình để nhanh chóng vượt qua."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": true,
@@ -1715,7 +1715,7 @@
       "B": "Đi sang làn đường của xe ngược chiều để mở rộng tầm nhìn và vượt xe khác.",
       "C": "Cho xe đi sát bên phải làn đường, bật tín hiệu báo hiệu để vượt bên phải xe khác."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": true,
@@ -1830,7 +1830,7 @@
       "B": "Tăng tốc độ và đi sát lề đường bên phải để nhường đường.",
       "C": "Giảm tốc độ, đi sát lề đường bên trái để nhường đường."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -1869,7 +1869,7 @@
       "C": "Được phép vượt khi đi qua nơi giao nhau có ít phương tiện cùng tham gia giao thông.",
       "D": "Được vượt khi bảo đảm an toàn."
     },
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": true,
@@ -2118,7 +2118,7 @@
       "B": "Xe máy chuyên dùng có tốc độ thiết kế lớn hơn tốc độ tối thiểu quy định đối với đường cao tốc.",
       "C": "Xe ô tô và xe máy chuyên dùng có tốc độ thiết kế lớn hơn 80 km/h."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -2137,7 +2137,7 @@
       "B": "Chỉ được đi ngược chiều trên làn dừng xe khẩn cấp.",
       "C": "Chỉ được đi ngược chiều trên làn đường sát dải phân cách của đường cao tốc."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "B",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -2710,7 +2710,7 @@
       "A": "Tiếp tục chịu trách nhiệm của chủ xe.",
       "B": "Không chịu trách nhiệm sau khi đã chuyển nhượng, trao đổi, tặng, cho."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -2805,7 +2805,7 @@
       "B": "Xe gắn máy, xe máy chuyên dùng.",
       "C": "Cả hai ý trên."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -2824,7 +2824,7 @@
       "B": "Xe gắn máy, xe máy chuyên dùng.",
       "C": "Cả hai ý trên."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -2843,7 +2843,7 @@
       "B": "Xe ô tô chở người trên 28 chỗ không kể chỗ người lái xe (trừ xe buýt); ô tô tải có trọng tải trên 3,5 tấn (trừ ô tô xi téc).",
       "C": "Xe buýt; ô tô đầu kéo kéo sơ mi rơ moóc (trừ ô tô đầu kéo kéo sơ mi rơ moóc xi téc); xe mô tô; ô tô chuyên dùng (trừ ô tô trộn vữa, ô tô trộn bê tông lưu động)."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -2922,7 +2922,7 @@
       "B": "Xe ô tô chở người trên 28 chỗ không kể chỗ người lái xe (trừ xe buýt); ô tô tải có trọng tải trên 3,5 tấn (trừ ô tô xi téc).",
       "C": "Xe buýt; ô tô đầu kéo kéo sơ mi rơ moóc (trừ ô tô đầu kéo kéo sơ mi rơ moóc xi téc); xe mô tô; ô tô chuyên dùng (trừ ô tô trộn vữa, ô tô trộn bê tông lưu động)."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -3116,7 +3116,7 @@
       "C": "Gặp biển báo hết mọi lệnh cấm.",
       "D": "Gặp biển báo hết hạn chế tốc độ tối đa cho phép."
     },
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": true,
@@ -3135,7 +3135,7 @@
       "B": "Được bố trí xe dẫn đường để bảo đảm an toàn giao thông.",
       "C": "Cả hai ý trên."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -3210,7 +3210,7 @@
       "A": "Đón, trả hành khách đúng nơi quy định; hướng dẫn sử dụng trang thiết bị an toàn trên xe; có biện pháp giữ gìn vệ sinh trong xe; vận chuyển hành khách đúng lịch trình, lộ trình đã đăng ký, trừ trường hợp bất khả kháng; không chở hành khách trên nóc xe, trong khoang chở hành lý hoặc để hành khách đu, bám bên ngoài xe.",
       "B": "Đón, trả hành khách theo yêu cầu của hành khách trên xe; hướng dẫn sử dụng trang thiết bị an toàn trên xe; có biện pháp giữ gìn vệ sinh trong xe; vận chuyển hành khách đúng lịch trình, lộ trình đã đăng ký, trừ trường hợp bất khả kháng; không chở hành khách trên nóc xe, trong khoang chở hành lý hoặc để hành khách đu, bám bên ngoài xe."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -3270,7 +3270,7 @@
       "C": "Không quá 8 giờ.",
       "D": "Liên tục tùy thuộc vào sức khỏe và khả năng của người lái xe."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -3425,7 +3425,7 @@
       "A": "Phải chạy với tốc độ quy định trong giấy phép và phải có báo hiệu kích thước của hàng; trường hợp cần thiết, phải có người, phương tiện hỗ trợ lái xe, cảnh báo cho người, phương tiện tham gia giao thông đường bộ khác và thực hiện các biện pháp bảo đảm an toàn giao thông khi vận chuyển hàng siêu trường, siêu trọng trên đường bộ.",
       "B": "Phải chạy với tốc độ quy định trong giấy phép; phải có người, phương tiện hỗ trợ lái xe, cảnh báo cho người, phương tiện tham gia giao thông đường bộ khác và thực hiện các biện pháp bảo đảm an toàn giao thông đường khi vận chuyển hàng siêu trường, siêu trọng trên đường dành cho giao thông công cộng."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -3442,7 +3442,7 @@
     "answers": {
       "A": "Xe cứu hộ giao thông đường bộ phải có dấu hiệu nhận diện, niêm yết thông tin trên xe, gắn thiết bị giám sát hành trình và thiết bị ghi nhận hình ảnh người lái xe.",
       "B": "Phải tuân thủ quy định của pháp luật về khối lượng hàng hóa chuyên chở của xe cứu hộ và khối lượng của xe được cứu hộ ghi trên Chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường.",
-      "C": "Cả hai ý trên. CHƯƠNG II. VĂN HÓA GIAO THÔNG, ĐẠO ĐỨC NGƯỜI LÁI XE, KỸ NĂNG PHÒNG CHÁY, CHỮA CHÁY VÀ CỨU HỘ, CỨU NẠN"
+      "C": "Cả hai ý trên. NĂNG PHÒNG CHÁY, CHỮA CHÁY VÀ CỨU HỘ, CỨU NẠN"
     },
     "correctAnswer": "C",
     "explanation": "",
@@ -3453,7 +3453,7 @@
   {
     "id": 181,
     "licenseType": "B",
-    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng PCCC và cứu hộ cứu nạn",
+    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng phòng cháy, chữa cháy và cứu hộ, cứu nạn",
     "categoryCode": "culture",
     "questionText": "Người lái xe kinh doanh vận tải khi thực hiện tốt việc rèn luyện, nâng cao trách nhiệm, đạo đức nghề nghiệp sẽ thu được kết quả như thế nào dưới đây?",
     "imageUrl": "",
@@ -3472,7 +3472,7 @@
   {
     "id": 182,
     "licenseType": "B",
-    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng PCCC và cứu hộ cứu nạn",
+    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng phòng cháy, chữa cháy và cứu hộ, cứu nạn",
     "categoryCode": "culture",
     "questionText": "Những hành vi nào sau đây thể hiện là người có văn hóa giao thông?",
     "imageUrl": "",
@@ -3492,7 +3492,7 @@
   {
     "id": 183,
     "licenseType": "B",
-    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng PCCC và cứu hộ cứu nạn",
+    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng phòng cháy, chữa cháy và cứu hộ, cứu nạn",
     "categoryCode": "culture",
     "questionText": "Người lái xe kinh doanh vận tải cần thực hiện những công việc gì ghi ở dưới đây để thường xuyên rèn luyện nâng cao đạo đức nghề nghiệp?",
     "imageUrl": "",
@@ -3511,7 +3511,7 @@
   {
     "id": 184,
     "licenseType": "B",
-    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng PCCC và cứu hộ cứu nạn",
+    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng phòng cháy, chữa cháy và cứu hộ, cứu nạn",
     "categoryCode": "culture",
     "questionText": "Người lái xe ô tô vận chuyển hành khách phải có những phẩm chất, đạo đức nghề nghiệp gì dưới đây?",
     "imageUrl": "",
@@ -3530,7 +3530,7 @@
   {
     "id": 185,
     "licenseType": "B",
-    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng PCCC và cứu hộ cứu nạn",
+    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng phòng cháy, chữa cháy và cứu hộ, cứu nạn",
     "categoryCode": "culture",
     "questionText": "Khái niệm về văn hóa giao thông được hiểu như thế nào là đúng?",
     "imageUrl": "",
@@ -3549,7 +3549,7 @@
   {
     "id": 186,
     "licenseType": "B",
-    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng PCCC và cứu hộ cứu nạn",
+    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng phòng cháy, chữa cháy và cứu hộ, cứu nạn",
     "categoryCode": "culture",
     "questionText": "Trên làn đường dành cho ô tô có vũng nước lớn, người lái xe ô tô bắt buộc phải đi qua vũng nước, trên làn đường bên cạnh có nhiều người đang lái xe mô tô tham gia giao thông, người lái xe ô tô xử lý như thế nào khi lái xe qua vũng nước là có văn hóa giao thông?",
     "imageUrl": "",
@@ -3568,7 +3568,7 @@
   {
     "id": 187,
     "licenseType": "B",
-    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng PCCC và cứu hộ cứu nạn",
+    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng phòng cháy, chữa cháy và cứu hộ, cứu nạn",
     "categoryCode": "culture",
     "questionText": "Người lái xe không điều khiển xe đi đúng làn đường quy định, phóng nhanh, vượt ẩu, vượt đèn đỏ, đi vào đường cấm được coi là hành vi nào trong các hành vi dưới đây?",
     "imageUrl": "",
@@ -3577,7 +3577,7 @@
       "A": "Là thiếu văn hóa giao thông, vi phạm pháp luật về trật tự, an toàn giao thông đường bộ.",
       "B": "Là thiếu văn hóa giao thông."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -3586,7 +3586,7 @@
   {
     "id": 188,
     "licenseType": "B",
-    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng PCCC và cứu hộ cứu nạn",
+    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng phòng cháy, chữa cháy và cứu hộ, cứu nạn",
     "categoryCode": "culture",
     "questionText": "Khi sơ cứu người bị tai nạn giao thông đường bộ, có vết thương chảy máu ngoài, phun thành tia và phun mạnh khi mạch đập, bạn phải làm gì dưới đây?",
     "imageUrl": "",
@@ -3604,7 +3604,7 @@
   {
     "id": 189,
     "licenseType": "B",
-    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng PCCC và cứu hộ cứu nạn",
+    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng phòng cháy, chữa cháy và cứu hộ, cứu nạn",
     "categoryCode": "culture",
     "questionText": "Người lái xe có văn hóa giao thông khi tham gia giao thông đường bộ phải đáp ứng các điều kiện nào dưới đây?",
     "imageUrl": "",
@@ -3622,7 +3622,7 @@
   {
     "id": 190,
     "licenseType": "B",
-    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng PCCC và cứu hộ cứu nạn",
+    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng phòng cháy, chữa cháy và cứu hộ, cứu nạn",
     "categoryCode": "culture",
     "questionText": "Người lái xe có văn hóa giao thông khi tham gia giao thông phải tuân thủ những quy định nào dưới đây?",
     "imageUrl": "",
@@ -3640,7 +3640,7 @@
   {
     "id": 191,
     "licenseType": "B",
-    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng PCCC và cứu hộ cứu nạn",
+    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng phòng cháy, chữa cháy và cứu hộ, cứu nạn",
     "categoryCode": "culture",
     "questionText": "Người lái xe mô tô có văn hóa giao thông khi tham gia giao thông phải tuân thủ những quy định nào dưới đây?",
     "imageUrl": "",
@@ -3650,7 +3650,7 @@
       "B": "Điều khiển xe đi trên phần đường, làn đường có ít phương tiện tham gia giao thông.",
       "C": "Điều khiển xe và đội mũ bảo hiểm ở nơi có biển báo bắt buộc đội mũ bảo hiểm."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -3659,7 +3659,7 @@
   {
     "id": 192,
     "licenseType": "B",
-    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng PCCC và cứu hộ cứu nạn",
+    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng phòng cháy, chữa cháy và cứu hộ, cứu nạn",
     "categoryCode": "culture",
     "questionText": "Trong các hành vi dưới đây, người lái xe có văn hóa giao thông phải ứng xử như thế nào?",
     "imageUrl": "",
@@ -3669,7 +3669,7 @@
       "B": "Điều khiển xe đi trên phần đường, làn đường có ít phương tiện giao thông; dừng xe, đỗ xe ở nơi thuận tiện hoặc theo yêu cầu của hành khách, của người thân.",
       "C": "Dừng và đỗ xe ở nơi thuận tiện cho việc chuyên chở hành khách và giao nhận hàng hóa; sử dụng ít rượu, bia thì có thể lái xe."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -3678,7 +3678,7 @@
   {
     "id": 193,
     "licenseType": "B",
-    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng PCCC và cứu hộ cứu nạn",
+    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng phòng cháy, chữa cháy và cứu hộ, cứu nạn",
     "categoryCode": "culture",
     "questionText": "Khi tham gia giao thông việc sử dụng còi xe nên dùng như thế nào để thể hiện là người có văn hóa giao thông?",
     "imageUrl": "",
@@ -3689,7 +3689,7 @@
       "C": "Bấm còi to khi đi qua khu vực đông dân cư.",
       "D": "Không cần dùng còi, tránh gây tiếng ồn là văn minh."
     },
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -3698,7 +3698,7 @@
   {
     "id": 194,
     "licenseType": "B",
-    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng PCCC và cứu hộ cứu nạn",
+    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng phòng cháy, chữa cháy và cứu hộ, cứu nạn",
     "categoryCode": "culture",
     "questionText": "Người điều khiển phương tiện tham giao thông đường bộ gây ra tai nạn giao thông đường bộ, người liên quan đến vụ tai nạn giao thông đường bộ có trách nhiệm gì dưới đây?",
     "imageUrl": "",
@@ -3718,7 +3718,7 @@
   {
     "id": 195,
     "licenseType": "B",
-    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng PCCC và cứu hộ cứu nạn",
+    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng phòng cháy, chữa cháy và cứu hộ, cứu nạn",
     "categoryCode": "culture",
     "questionText": "Người có mặt tại nơi xảy ra vụ tai giao thông đường bộ có trách nhiệm gì dưới đây?",
     "imageUrl": "",
@@ -3727,7 +3727,7 @@
       "A": "Giúp đỡ, cứu chữa kịp thời người bị nạn; báo tin ngay cho cơ quan Công an, cơ sở khám bệnh, chữa bệnh hoặc Ủy ban nhân dân nơi gần nhất; tham gia bảo vệ hiện trường; tham gia bảo vệ tài sản của người bị nạn; cung cấp thông tin liên quan về vụ tai nạn theo yêu cầu của cơ quan có thẩm quyền.",
       "B": "Chụp lại hình ảnh vụ tai nạn (nếu có thiết bị ghi hình) và nhanh chóng rời khỏi hiện trường vụ tai nạn."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -3736,7 +3736,7 @@
   {
     "id": 196,
     "licenseType": "B",
-    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng PCCC và cứu hộ cứu nạn",
+    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng phòng cháy, chữa cháy và cứu hộ, cứu nạn",
     "categoryCode": "culture",
     "questionText": "Khi sơ cứu ban đầu cho người bị tai nạn giao thông đường bộ không còn hô hấp, người lái xe và người có mặt tại hiện trường vụ tai nạn phải thực hiện các công việc gì dưới đây?",
     "imageUrl": "",
@@ -3745,7 +3745,7 @@
       "A": "Đặt nạn nhân nằm ngửa, khai thông đường thở của nạn nhân; thực hiện các biện pháp hô hấp nhân tạo.",
       "B": "Thực hiện các biện pháp hô hấp nhân tạo."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -3754,7 +3754,7 @@
   {
     "id": 197,
     "licenseType": "B",
-    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng PCCC và cứu hộ cứu nạn",
+    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng phòng cháy, chữa cháy và cứu hộ, cứu nạn",
     "categoryCode": "culture",
     "questionText": "Hành vi bỏ trốn sau khi gây tai nạn để trốn tránh trách nhiệm hoặc khi có điều kiện mà cố ý không cứu giúp người bị tai nạn giao thông có bị nghiêm cấm hay không?",
     "imageUrl": "",
@@ -3773,7 +3773,7 @@
   {
     "id": 198,
     "licenseType": "B",
-    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng PCCC và cứu hộ cứu nạn",
+    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng phòng cháy, chữa cháy và cứu hộ, cứu nạn",
     "categoryCode": "culture",
     "questionText": "Khi đang lái xe, thấy một người đi bộ đang sang đường trên vạch kẻ đường dành cho người đi bộ, người lái xe nên làm gì?",
     "imageUrl": "",
@@ -3784,7 +3784,7 @@
       "C": "Tiếp tục đi nếu đang vội.",
       "D": "Vượt qua nếu thấy khoảng trống đủ rộng."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": true,
@@ -3793,7 +3793,7 @@
   {
     "id": 199,
     "licenseType": "B",
-    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng PCCC và cứu hộ cứu nạn",
+    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng phòng cháy, chữa cháy và cứu hộ, cứu nạn",
     "categoryCode": "culture",
     "questionText": "Khi gặp vụ tai nạn giao thông, người lái xe nên hành động như thế nào?",
     "imageUrl": "",
@@ -3813,7 +3813,7 @@
   {
     "id": 200,
     "licenseType": "B",
-    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng PCCC và cứu hộ cứu nạn",
+    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng phòng cháy, chữa cháy và cứu hộ, cứu nạn",
     "categoryCode": "culture",
     "questionText": "Trong đoạn đường hai chiều tại khu đông dân cư đang ùn tắc, người điều khiển xe mô tô có văn hóa giao thông sẽ lựa chọn cách xử lý tình huống nào dưới đây?",
     "imageUrl": "",
@@ -3832,7 +3832,7 @@
   {
     "id": 201,
     "licenseType": "B",
-    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng PCCC và cứu hộ cứu nạn",
+    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng phòng cháy, chữa cháy và cứu hộ, cứu nạn",
     "categoryCode": "culture",
     "questionText": "Khi điều khiển phương tiện tham gia giao thông trên đoạn đường bộ đang xảy ra ùn tắc, những hành vi nào dưới đây là thiếu văn hóa?",
     "imageUrl": "",
@@ -3841,7 +3841,7 @@
       "A": "Bấm còi liên tục thúc giục các phương tiện phía trước nhường đường; đi trên vỉa hè, tận dụng mọi khoảng trống để nhanh chóng thoát khỏi nơi ùn tắc; lấn sang trái đường cố gắng vượt lên xe khác.",
       "B": "Tuân thủ hướng dẫn của người điều khiển giao thông hoặc tín hiệu giao thông, đi đúng phần đường, làn đường quy định."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -3850,7 +3850,7 @@
   {
     "id": 202,
     "licenseType": "B",
-    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng PCCC và cứu hộ cứu nạn",
+    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng phòng cháy, chữa cháy và cứu hộ, cứu nạn",
     "categoryCode": "culture",
     "questionText": "Người lái xe, chủ phương tiện giao thông cơ giới đường bộ nên thực hiện các biện pháp phòng cháy, chữa cháy như thế nào dưới đây?",
     "imageUrl": "",
@@ -3870,7 +3870,7 @@
   {
     "id": 203,
     "licenseType": "B",
-    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng PCCC và cứu hộ cứu nạn",
+    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng phòng cháy, chữa cháy và cứu hộ, cứu nạn",
     "categoryCode": "culture",
     "questionText": "Người điều khiển phương tiện cơ giới đường bộ phải thực hiện những biện pháp gì dưới đây để chữa cháy trong trường hợp phương tiện bị cháy, xét thấy có khả năng dập tắt đám cháy?",
     "imageUrl": "",
@@ -3889,7 +3889,7 @@
   {
     "id": 204,
     "licenseType": "B",
-    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng PCCC và cứu hộ cứu nạn",
+    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng phòng cháy, chữa cháy và cứu hộ, cứu nạn",
     "categoryCode": "culture",
     "questionText": "Khi phát hiện thấy có ngọn lửa, khói hoặc nhiệt độ cao bất thường từ phương tiện giao thông do mình điều khiển người lái xe phải làm gì trước tiên?",
     "imageUrl": "",
@@ -3900,7 +3900,7 @@
       "C": "Nếu nhiên liệu trào ra ngoài, ngọn lửa chưa cháy dữ dội thì tiếp tục sử dụng nước, hoặc bất kỳ chất, phương tiện chữa cháy có được để dập lửa.",
       "D": "Cả ba ý trên."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -3909,7 +3909,7 @@
   {
     "id": 205,
     "licenseType": "B",
-    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng PCCC và cứu hộ cứu nạn",
+    "category": "Văn hóa giao thông, đạo đức người lái xe, kỹ năng phòng cháy, chữa cháy và cứu hộ, cứu nạn",
     "categoryCode": "culture",
     "questionText": "Khi gặp nạn nhân bị bỏng trong vụ tai nạn giao thông, người lái xe cần làm gì?",
     "imageUrl": "",
@@ -3918,7 +3918,7 @@
       "A": "Gọi số 115 để thông báo về tình trạng tai nạn và yêu cầu hỗ trợ y tế ngay lập tức. Quan sát hiện trường để giúp nạn nhân, đồng thời tránh gây tổn thương cho mình.",
       "B": "Nhanh chóng loại bỏ nguyên nhân gây bỏng bằng cách tách nạn nhân khỏi vật gây cháy, cởi bỏ quần áo nếu bén lửa, ngâm vùng da bị bỏng vào nước sạch hoặc đắp khăn mát, lưu ý không dùng khăn hoặc nước quá lạnh.",
       "C": "Nếu nạn nhân còn tỉnh, cần cho uống bù nước. Trong thời tiết lạnh, cần giữ ấm cho cơ thể nạn nhân, sau đó nhanh chóng đưa đến cơ sở y tế gần nhất.",
-      "D": "Cả ba ý trên. CHƯƠNG III. KỸ THUẬT LÁI XE"
+      "D": "Cả ba ý trên."
     },
     "correctAnswer": "D",
     "explanation": "",
@@ -3939,7 +3939,7 @@
       "B": "Nhả hết tay ga, tắt động cơ, sử dụng phanh trước và phanh sau để giảm tốc độ.",
       "C": "Sử dụng phanh trước để giảm tốc độ kết hợp với tắt chìa khóa điện của xe."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": true,
@@ -3957,7 +3957,7 @@
       "A": "Đạp bàn đạp phanh chân hết hành trình, vào số và nhả phanh đỗ, kiểm tra lại xem có bị nhầm số không rồi mới cho xe lăn bánh.",
       "B": "Đạp bàn đạp để tăng ga với mức độ phù hợp, vào số và kiểm tra lại xem có bị nhầm số không rồi mới cho xe lăn bánh."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -4012,7 +4012,7 @@
       "A": "Quan sát biển báo hiệu để biết nơi được phép quay đầu; quan sát kỹ địa hình nơi chọn để quay đầu; lựa chọn quỹ đạo quay đầu xe cho thích hợp; quay đầu xe với tốc độ thấp; thường xuyên báo tín hiệu để người, các phương tiện xung quanh được biết; nếu quay đầu xe ở nơi nguy hiểm thì đưa đầu xe về phía nguy hiểm, đưa đuôi xe về phía an toàn.",
       "B": "Quan sát biển báo hiệu để biết nơi được phép quay đầu; quan sát kỹ địa hình nơi chọn để quay đầu; lựa chọn quỹ đạo quay đầu xe; quay đầu xe với tốc độ tối đa; thường xuyên báo tín hiệu để người, các phương tiện xung quanh được biết; nếu quay đầu xe ở nơi nguy hiểm thì đưa đuôi xe về phía nguy hiểm và đầu xe về phía an toàn."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -4068,7 +4068,7 @@
       "B": "Về số thấp, nhả bàn đạp ga ở mức độ phù hợp, kết hợp với phanh chân để khống chế tốc độ.",
       "C": "Về số không (0), nhả bàn đạp ga ở mức độ phù hợp, kết hợp với phanh chân để khống chế tốc độ."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "B",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -4087,7 +4087,7 @@
       "B": "Có tín hiệu rẽ phải, điều khiển xe sát vào lề đường bên trái; đạp hết hành trình ly hợp (côn) và nhả bàn đạp ga để xe đi với tốc độ chậm đến mức dễ dàng dừng lại được tại chỗ dừng; khi xe đã dừng, đạp và giữ phanh chân.",
       "C": "Có tín hiệu rẽ trái, điều khiển xe sát vào lề đường bên phải; đạp phanh sớm và mạnh hơn lúc dừng xe trên đường bằng để xe đi với tốc độ chậm đến mức dễ dàng dừng lại được; về số không (N) để xe đi đến chỗ dừng, khi xe đã dừng, sử dụng phanh đỗ."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -4105,7 +4105,7 @@
       "A": "Quan sát cẩn thận các chướng ngại vật và báo hiệu bằng coi, đèn; giảm tốc độ tới mức cần thiết, về số thấp và thực hiện quay vòng với tốc độ phù hợp với bán kính cong của đường vòng.",
       "B": "Quan sát cẩn thận các chướng ngại vật và báo hiệu bằng còi, đèn; tăng tốc để nhanh chóng qua đường vòng và giảm tốc độ sau khi qua đường vòng."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": true,
@@ -4142,7 +4142,7 @@
       "A": "Cách chỗ rẽ một khoảng cách an toàn có tín hiệu rẽ trái; giảm tốc độ, quan sát an toàn xung quanh đặc biệt là bên trái; đổi sang làn đường bên trái và điều khiển xe từ từ rẽ trái.",
       "B": "Cách chỗ rẽ một khoảng cách an toàn có tín hiệu rẽ trái, tăng tốc độ để xe nhanh chóng qua chỗ đường giao nhau; có tín hiệu xin đổi làn đường; quan sát an toàn xung quanh đặc biệt là bên trái; đổi làn đường sang phải để mở rộng vòng cua."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -4293,7 +4293,7 @@
       "B": "Chuyển từ đèn chiếu gần sang đèn chiếu xa; không nhìn thẳng vào đèn của xe chạy ngược chiều mà nhìn chếch sang phía phải theo chiều chuyển động của xe mình.",
       "C": "Chuyển từ đèn chiếu xa sang đèn chiếu gần; nhìn thẳng vào đèn của xe chạy ngược chiều để tránh xe bảo đảm an toàn."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -4332,7 +4332,7 @@
       "B": "Nhiệt độ nước làm mát quá mức cho phép.",
       "C": "Cửa xe đang mở."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -4376,7 +4376,7 @@
       "C": "Dầu bôi trơn bị thiếu.",
       "D": "Ý 2 và ý 3."
     },
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -4534,7 +4534,7 @@
       "B": "Giữ nguyên tay số D, kết hợp phanh đỗ để giảm tốc độ.",
       "C": "Về số N (số 0), kết hợp phanh chân để giảm tốc độ."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -4553,7 +4553,7 @@
       "B": "Vị trí D hoặc số 1.",
       "C": "Vị trí R."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -4610,7 +4610,7 @@
       "B": "Bật đèn pha chiếu xa và giữ nguyên tốc độ.",
       "C": "Tăng tốc độ, bật đèn pha đối diện xe phía trước."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -4667,7 +4667,7 @@
       "B": "Bật đèn chiếu xa và đèn vàng, điều khiển gạt nước, tăng tốc độ điều khiển ô tô qua khỏi khu vực mưa hoặc sương mù.",
       "C": "Tăng tốc độ, bật đèn pha vượt qua xe chạy phía trước."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -4686,7 +4686,7 @@
       "B": "Phanh gấp khi xe đi vào vũng nước và tăng ga ngay sau khi ra khỏi vũng nước.",
       "C": "Bật đèn chiếu xa, tăng tốc độ điều khiển ô tô qua khỏi khu vực mưa."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": true,
@@ -4743,7 +4743,7 @@
       "B": "Phát tín hiệu, quan sát các xe đang chạy phía trước, nếu bảo đảm các điều kiện an toàn thì tăng tốc độ cho xe nhập ngay vào làn đường cao tốc.",
       "C": "Phát tín hiệu và lái xe nhập vào làn đường tăng tốc, quan sát các xe phía sau đang chạy trên đường cao tốc, khi đủ điều kiện an toàn thì giảm tốc độ, từ từ cho xe nhập vào làn đường cao tốc."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -4761,7 +4761,7 @@
       "A": "Quan sát phía trước để tìm biển báo chỉ dẫn \"lối ra đường cao tốc\", kiểm tra tình trạng giao thông phía sau và bên phải, nếu bảo đảm điều kiện an toàn thì phát tín hiệu và điều khiển xe chuyển dần sang làn bên phải, nếu có làn đường giảm tốc thì phải cho xe di chuyển trên làn đường đó trước khi ra khỏi đường cao tốc.",
       "B": "Quan sát phía trước để tìm biển báo chỉ dẫn \"lối ra đường cao tốc\", trường hợp vượt qua \"lối ra đường cao tốc\" thì phát tín hiệu, di chuyển sang làn đường giảm tốc và lùi xe quay trở lại."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -4892,7 +4892,7 @@
       "A": "Quan sát phía trước, phía sau và bên phía mở cửa để phát hiện các phương tiện đang di chuyển tới gần, khi đủ điều kiện an toàn, mở hé cửa, sau đó mở ở mức cần thiết để xuống xe.",
       "B": "Quan sát tình hình giao thông phía trước, không cần quan sát phía sau và bên mở cửa; mở cánh cửa hết hành trình và nhanh chóng ra khỏi xe ô tô."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -5030,7 +5030,7 @@
       "A": "Người lái xe phải tìm hiểu khả năng chìm trong nước của xe để xác định cung đường di chuyển.",
       "B": "Giữ vững tay lái, đi đều ga, tránh không để xe chết máy giữa dòng, không nên dừng xe trên đường ngập nước.",
       "C": "Lái xe tốc độ chậm, không tạo sóng và giữ khoảng cách an toàn với các phương tiện xung quanh, nhất là người đi bộ.",
-      "D": "Cả ba ý trên. CHƯƠNG IV. CẤU TẠO VÀ SỬA CHỮA"
+      "D": "Cả ba ý trên."
     },
     "correctAnswer": "D",
     "explanation": "",
@@ -5127,7 +5127,7 @@
       "A": "Là loại kính an toàn, kính nhiều lớp, đúng quy cách, không rạn nứt, bảo đảm hình ảnh quan sát rõ ràng, không bị méo mó.",
       "B": "Là loại kính trong suốt, không rạn nứt, bảo đảm tầm nhìn cho người điều khiển về phía trước mặt và hai bên."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -5203,7 +5203,7 @@
       "B": "Hết nhiên liệu, lõi lọc nhiên liệu bị tắc, lọc khí bị tắc, nhiên liệu lẫn không khí, không có tia lửa điện.",
       "C": "Hết nhiên liệu, lõi lọc nhiên liệu bị tắc, lọc khí bị tắc, nhiên liệu lẫn không khí và nước, không có tia lửa điện."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -5241,7 +5241,7 @@
       "B": "Đủ số lượng, lắp đặt chắc chắn không bị rách, đứt, khóa cài đóng, mở nhẹ nhàng, không tự mở, không bị kẹt; kéo ra thu vào dễ dàng, cơ cấu hãm mở ra khi giật dây đột ngột.",
       "C": "Cả hai ý trên."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -5278,7 +5278,7 @@
       "B": "Cung cấp một lượng nhiên liệu đầy đủ và sạch để cho động cơ ô tô hoạt động.",
       "C": "Cả hai ý trên."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -5335,7 +5335,7 @@
       "B": "Khi làm việc, cơ năng được biến đổi thành nhiệt năng và truyền đến các bánh xe chủ động tạo ra chuyển động tịnh tiến cho xe ô tô.",
       "C": "Cả hai ý trên."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -5354,7 +5354,7 @@
       "B": "Dùng để thay đổi hướng chuyển động hoặc giữ cho xe ô tô chuyển động ổn định theo hướng xác định.",
       "C": "Dùng để làm giảm tốc độ, dừng chuyển động của xe ô tô."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -5430,7 +5430,7 @@
       "B": "Dùng để thay đổi hướng chuyển động hoặc giữ cho xe ô tô chuyển động ổn định theo hướng xác định.",
       "C": "Dùng để truyền hoặc ngắt truyền động từ động cơ đến bánh xe chủ động của xe ô tô."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -5471,7 +5471,7 @@
       "C": "Đang hãm phanh tay.",
       "D": "Cần kiểm tra động cơ."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -5537,7 +5537,7 @@
       "C": "Đang hãm phanh tay.",
       "D": "Sắp hết nhiên liệu."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -5558,7 +5558,7 @@
       "B": "Không cần đạp phanh.",
       "C": "Tùy từng trường hợp."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -5765,7 +5765,7 @@
       "A": "Báo hiệu hệ thống túi khí đã bật.",
       "B": "Báo hiệu đèn chiếu sáng xa đã bật.",
       "C": "Báo hiệu chế độ lái tiết kiệm nhiên liệu đã bật.",
-      "D": "Báo hiệu đèn cảnh báo khoảng cách đã bật. CHƯƠNG V. BÁO HIỆU ĐƯỜNG BỘ"
+      "D": "Báo hiệu đèn cảnh báo khoảng cách đã bật."
     },
     "correctAnswer": "C",
     "explanation": "",
@@ -5789,7 +5789,7 @@
       "B": "Biển 2.",
       "D": "Cả ba biển."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -5854,7 +5854,7 @@
       "B": "Biển 1 và biển 3.",
       "C": "Biển 2 và biển 3."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -5896,7 +5896,7 @@
       "B": "Biển 2.",
       "C": "Biển 3."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -6067,7 +6067,7 @@
       "B": "Biển 2.",
       "C": "Cả hai biển."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -6131,7 +6131,7 @@
       "C": "Biển 2 và biển 3.",
       "D": "Cả ba biển."
     },
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -6153,7 +6153,7 @@
       "C": "Biển 2 và biển 3.",
       "D": "Cả ba biển."
     },
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -6175,7 +6175,7 @@
       "C": "Biển 3.",
       "D": "Biển 1 và biển 3."
     },
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -6281,7 +6281,7 @@
       "B": "Biển 2.",
       "C": "Cả hai biển."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -6367,7 +6367,7 @@
       "C": "Biển 2 và biển 3.",
       "D": "Biển 3."
     },
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -6409,7 +6409,7 @@
       "B": "Biển 2.",
       "C": "Cả hai biển."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -6514,7 +6514,7 @@
       "A": "Tốc độ tối đa cho phép về ban đêm cho các phương tiện là 70 km/h.",
       "B": "Tốc độ tối thiểu cho phép về ban đêm cho các phương tiện là 70 km/h."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -6555,7 +6555,7 @@
       "B": "Biển 2.",
       "C": "Biển 3."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -6596,7 +6596,7 @@
       "B": "Hạn chế khối lượng hàng hóa chở trên xe.",
       "C": "Hạn chế tải trọng trên trục xe."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -6637,7 +6637,7 @@
       "A": "Được đi vào.",
       "B": "Không được đi vào."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -6659,7 +6659,7 @@
       "C": "Biển 1 và biển 3.",
       "D": "Cả ba biển."
     },
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -6721,7 +6721,7 @@
       "A": "Có.",
       "B": "Không."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -6845,7 +6845,7 @@
       "A": "Cấm các loại xe ở biển phụ đi vào.",
       "B": "Cấm các loại xe cơ giới đi vào trừ loại xe ở biển phụ."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -6862,9 +6862,7 @@
       "images/question-352-image-1.png"
     ],
     "answers": {
-      "A": "Biển 1.",
-      "B": "Biển 2.",
-      "C": "Cả hai biển."
+      "A": "Biển 1. 2. Biển 2. 3. Cả hai biển."
     },
     "correctAnswer": "A",
     "explanation": "",
@@ -6928,7 +6926,7 @@
       "A": "Không được phép.",
       "B": "Được phép."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -6948,7 +6946,7 @@
       "A": "Không được phép.",
       "B": "Được phép."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -6968,7 +6966,7 @@
       "A": "Không được phép.",
       "B": "Được phép."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -7031,7 +7029,7 @@
       "B": "Biển 2.",
       "C": "Cả hai biển."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -7051,7 +7049,7 @@
       "A": "Biển 1.",
       "B": "Biển 2."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -7112,7 +7110,7 @@
       "A": "Tốc độ tối đa các xe cơ giới được phép chạy.",
       "B": "Tốc độ tối thiểu các xe cơ giới được phép chạy."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -7174,7 +7172,7 @@
       "B": "Biển 2.",
       "C": "Biển 3."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -7217,7 +7215,7 @@
       "B": "Biển 2.",
       "C": "Biển 3."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -7260,7 +7258,7 @@
       "B": "Biển 2 và biển 3.",
       "C": "Biển 3."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -7348,7 +7346,7 @@
       "C": "Biển 3.",
       "D": "Biển 1 và biển 3."
     },
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -7390,7 +7388,7 @@
       "B": "Để báo trước sắp đến vị trí giao cắt đường bộ với đường sắt cùng mức, không vuông góc và không có người gác, không có rào chắn.",
       "C": "Nơi đường sắt giao nhau với đường bộ."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -7498,7 +7496,7 @@
       "C": "Biển 3.",
       "D": "Biển 2 và biển 3."
     },
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -7541,7 +7539,7 @@
       "C": "Biển 2 và biển 3.",
       "D": "Cả ba biển."
     },
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -7606,7 +7604,7 @@
       "B": "Biển 2.",
       "C": "Biển 3."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -7648,7 +7646,7 @@
       "B": "Biển 2.",
       "C": "Biển 3."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -7775,7 +7773,7 @@
       "B": "Biển 2.",
       "C": "Biển 3."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -7943,7 +7941,7 @@
       "B": "Biển 2.",
       "C": "Biển 3."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -8050,7 +8048,7 @@
       "C": "Biển 3.",
       "D": "Không biển nào."
     },
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -8177,7 +8175,7 @@
       "B": "Biển 2.",
       "C": "Cả hai biển."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -8197,7 +8195,7 @@
       "A": "Biển 1.",
       "B": "Biển 2."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -8237,7 +8235,7 @@
       "A": "Chỗ ngoặt nguy hiểm có nguy cơ lật xe bên phải khi đường cong vòng sang trái.",
       "B": "Chỗ ngoặt nguy hiểm có nguy cơ lật xe bên trái khi đường cong vòng sang phải."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -8278,7 +8276,7 @@
       "A": "Báo hiệu đường có ổ gà, lồi lõm.",
       "B": "Báo hiệu đường có gồ giảm tốc phía trước."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -8340,7 +8338,7 @@
       "B": "Để báo trước nơi có kết cấu mặt đường rời rạc, khi phương tiện đi qua, làm cho các viên đá, sỏi văng lên gây nguy hiểm và mất an toàn cho người và phương tiện tham gia giao thông.",
       "C": "Để cảnh báo những đoạn nền đường yếu, đoạn đường đang theo dõi lún mà việc vận hành xe ở tốc độ cao có thể gây nguy hiểm."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -8463,7 +8461,7 @@
       "A": "Biển 1.",
       "B": "Biển 2."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -8503,7 +8501,7 @@
       "A": "Biển 1.",
       "B": "Biển 2."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -8565,7 +8563,7 @@
       "A": "Biển 1.",
       "B": "Biển 2."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -8608,7 +8606,7 @@
       "C": "Biển 3.",
       "D": "Cả ba biển."
     },
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -8740,7 +8738,7 @@
       "C": "Biển 3.",
       "D": "Biển 1 và biển 3."
     },
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -8762,7 +8760,7 @@
       "C": "Biển 2 và biển 3.",
       "D": "Cả ba biển."
     },
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -8826,7 +8824,7 @@
       "B": "Biển chỉ dẫn hết hiệu lực khu vực đỗ xe trên các tuyến đường đối ngoại.",
       "C": "Biển chỉ dẫn khu vực đỗ xe trên các tuyến đường đối ngoại."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -8933,7 +8931,7 @@
       "C": "Cả hai biển.",
       "D": "Không biển nào."
     },
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -9038,7 +9036,7 @@
       "A": "Bắt buộc.",
       "B": "Không bắt buộc."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -9123,7 +9121,7 @@
       "B": "Biển 1 và biển 3.",
       "C": "Biển 2 và biển 3."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -9145,7 +9143,7 @@
       "C": "Báo hiệu nút giao gần nhất phía trước.",
       "D": "Báo hiệu trạm dừng nghỉ phía trước."
     },
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -9165,7 +9163,7 @@
       "A": "Được phép chuyển sang làn khác.",
       "B": "Không được phép chuyển sang làn khác, chỉ được đi trong làn quy định theo biển."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -9185,7 +9183,7 @@
       "A": "Có.",
       "B": "Không."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -9311,7 +9309,7 @@
       "B": "Xăng dầu, ăn uống, nhà nghỉ, sửa chữa xe.",
       "C": "Xăng dầu, ăn uống, cấp cứu, sửa chữa xe."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -9353,7 +9351,7 @@
       "B": "Biển 2.",
       "C": "Biển 3."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -9563,7 +9561,7 @@
       "A": "Phân chia hai chiều xe chạy ngược chiều nhau.",
       "B": "Phân chia các làn xe chạy cùng chiều nhau."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -9666,7 +9664,7 @@
     "answers": {
       "A": "Vị trí dừng xe của các phương tiện vận tải hành khách công cộng.",
       "B": "Báo cho người điều khiển được dừng phương tiện trong phạm vi phần mặt đường có bố trí vạch để tránh ùn tắc giao thông.",
-      "C": "Dùng để xác định vị trí giữa các phương tiện trên đường. CHƯƠNG VI. GIẢI THẾ SA HÌNH VÀ KỸ NĂNG XỬ LÝ TÌNH HUỐNG GIAO THÔNG"
+      "C": "Dùng để xác định vị trí giữa các phương tiện trên đường. TÌNH HUỐNG GIAO THÔNG"
     },
     "correctAnswer": "A",
     "explanation": "",
@@ -9678,7 +9676,7 @@
     "id": 486,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Theo hướng mũi tên, xe nào chấp hành đúng quy tắc giao thông?",
     "imageUrl": "images/question-486-image-1.png",
     "imageUrls": [
@@ -9699,7 +9697,7 @@
     "id": 487,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Theo hướng mũi tên, thứ tự các xe đi như thế nào là đúng quy tắc giao thông?",
     "imageUrl": "images/question-487-image-1.png",
     "imageUrls": [
@@ -9721,7 +9719,7 @@
     "id": 488,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Theo hướng mũi tên, thứ tự các xe đi như thế nào là đúng quy tắc giao thông?",
     "imageUrl": "images/question-488-image-1.png",
     "imageUrls": [
@@ -9733,7 +9731,7 @@
       "C": "Xe công an đi làm nhiệm vụ khẩn cấp, xe tải, xe khách, xe con.",
       "D": "Xe con, xe công an đi làm nhiệm vụ khẩn cấp, xe tải, xe khách."
     },
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -9743,7 +9741,7 @@
     "id": 489,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Theo hướng mũi tên, thứ tự các xe đi như thế nào là đúng quy tắc giao thông?",
     "imageUrl": "images/question-489-image-1.png",
     "imageUrls": [
@@ -9765,7 +9763,7 @@
     "id": 490,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Theo hướng mũi tên, thứ tự các xe đi như thế nào là đúng quy tắc giao thông?",
     "imageUrl": "images/question-490-image-1.png",
     "imageUrls": [
@@ -9787,7 +9785,7 @@
     "id": 491,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Xe nào phải nhường đường trong trường hợp này?",
     "imageUrl": "images/question-491-image-1.png",
     "imageUrls": [
@@ -9797,7 +9795,7 @@
       "A": "Xe con.",
       "B": "Xe tải."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -9807,7 +9805,7 @@
     "id": 492,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Trường hợp này xe nào được quyền đi trước?",
     "imageUrl": "images/question-492-image-1.png",
     "imageUrls": [
@@ -9827,7 +9825,7 @@
     "id": 493,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Thứ tự các xe đi như thế nào là đúng quy tắc giao thông?",
     "imageUrl": "images/question-493-image-1.png",
     "imageUrls": [
@@ -9838,7 +9836,7 @@
       "B": "Xe cứu thương đi làm nhiệm vụ cấp cứu, xe con (B), xe con (A).",
       "C": "Xe con (B), xe con (A), xe cứu thương đi làm nhiệm vụ cấp cứu."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -9848,7 +9846,7 @@
     "id": 494,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Thứ tự các xe đi như thế nào là đúng quy tắc giao thông?",
     "imageUrl": "images/question-494-image-1.png",
     "imageUrls": [
@@ -9869,7 +9867,7 @@
     "id": 495,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Xe nào được quyền đi trước trong trường hợp này?",
     "imageUrl": "images/question-495-image-1.png",
     "imageUrls": [
@@ -9889,7 +9887,7 @@
     "id": 496,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Theo hướng mũi tên, xe nào phải nhường đường đi cuối cùng qua nơi giao nhau này?",
     "imageUrl": "images/question-496-image-1.png",
     "imageUrls": [
@@ -9900,7 +9898,7 @@
       "B": "Xe tải.",
       "C": "Xe con."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -9910,7 +9908,7 @@
     "id": 497,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Theo hướng mũi tên, xe nào phải nhường đường là đúng quy tắc giao thông?",
     "imageUrl": "images/question-497-image-1.png",
     "imageUrls": [
@@ -9920,7 +9918,7 @@
       "A": "Xe con.",
       "B": "Xe tải."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -9930,7 +9928,7 @@
     "id": 498,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Xe nào được quyền đi trước trong trường hợp này?",
     "imageUrl": "images/question-498-image-1.png",
     "imageUrls": [
@@ -9950,7 +9948,7 @@
     "id": 499,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Theo tín hiệu đèn, xe nào được phép đi?",
     "imageUrl": "images/question-499-image-1.png",
     "imageUrls": [
@@ -9960,7 +9958,7 @@
       "A": "Xe con và xe khách.",
       "B": "Xe mô tô."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -9970,7 +9968,7 @@
     "id": 500,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Theo tín hiệu đèn, xe nào đi là đúng quy tắc giao thông?",
     "imageUrl": "images/question-500-image-1.png",
     "imageUrls": [
@@ -9991,7 +9989,7 @@
     "id": 501,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Trong trường hợp này xe nào được quyền đi trước?",
     "imageUrl": "images/question-501-image-1.png",
     "imageUrls": [
@@ -10011,7 +10009,7 @@
     "id": 502,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Theo tín hiệu đèn, xe tải đi theo hướng nào là đúng quy tắc giao thông?",
     "imageUrl": "images/question-502-image-1.png",
     "imageUrls": [
@@ -10033,7 +10031,7 @@
     "id": 503,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Các xe đi theo hướng mũi tên, những xe nào vi phạm quy tắc giao thông?",
     "imageUrl": "images/question-503-image-1.png",
     "imageUrls": [
@@ -10044,7 +10042,7 @@
       "B": "Xe tải, xe con, xe mô tô.",
       "C": "Xe khách, xe con, xe mô tô."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -10054,7 +10052,7 @@
     "id": 504,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Theo hướng mũi tên, thứ tự các xe đi như thế nào là đúng quy tắc giao thông?",
     "imageUrl": "images/question-504-image-1.png",
     "imageUrls": [
@@ -10076,7 +10074,7 @@
     "id": 505,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Trong trường hợp này xe nào đỗ vi phạm quy tắc giao thông?",
     "imageUrl": "images/question-505-image-1.png",
     "imageUrls": [
@@ -10088,7 +10086,7 @@
       "C": "Cả ba xe.",
       "D": "Xe con và xe tải."
     },
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -10098,7 +10096,7 @@
     "id": 506,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Theo hướng mũi tên, xe nào được quyền đi trước?",
     "imageUrl": "images/question-506-image-1.png",
     "imageUrls": [
@@ -10119,7 +10117,7 @@
     "id": 507,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Theo hướng mũi tên, những hướng nào xe gắn máy được phép đi?",
     "imageUrl": "images/question-507-image-1.png",
     "imageUrls": [
@@ -10130,7 +10128,7 @@
       "B": "Chỉ hướng 1 và 3.",
       "C": "Chỉ hướng 1."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -10140,7 +10138,7 @@
     "id": 508,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Xe nào đỗ vi phạm quy tắc giao thông?",
     "imageUrl": "images/question-508-image-1.png",
     "imageUrls": [
@@ -10152,7 +10150,7 @@
       "C": "Chỉ xe mô tô vi phạm.",
       "D": "Chỉ xe tải vi phạm."
     },
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -10162,7 +10160,7 @@
     "id": 509,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Xe nào đỗ vi phạm quy tắc giao thông?",
     "imageUrl": "images/question-509-image-1.png",
     "imageUrls": [
@@ -10184,7 +10182,7 @@
     "id": 510,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Xe tải kéo xe mô tô ba bánh như hình này có đúng quy tắc giao thông không?",
     "imageUrl": "images/question-510-image-1.png",
     "imageUrls": [
@@ -10204,7 +10202,7 @@
     "id": 511,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Theo hướng mũi tên, hướng nào xe không được phép đi?",
     "imageUrl": "images/question-511-image-1.png",
     "imageUrls": [
@@ -10224,7 +10222,7 @@
     "id": 512,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Theo hướng mũi tên, những hướng nào xe ô tô không được phép đi?",
     "imageUrl": "images/question-512-image-1.png",
     "imageUrls": [
@@ -10246,7 +10244,7 @@
     "id": 513,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Xe nào vượt đúng quy tắc giao thông?",
     "imageUrl": "images/question-513-image-1.png",
     "imageUrls": [
@@ -10257,7 +10255,7 @@
       "B": "Xe con.",
       "C": "Xe khách."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -10267,7 +10265,7 @@
     "id": 514,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Theo hướng mũi tên, gặp biển hướng đi phải theo đặt trước ngã tư, những hướng nào xe được phép đi?",
     "imageUrl": "images/question-514-image-1.png",
     "imageUrls": [
@@ -10278,7 +10276,7 @@
       "B": "Hướng 1, 2 và 3.",
       "C": "Hướng 1 và 3."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -10288,7 +10286,7 @@
     "id": 515,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Xe kéo nhau như hình này có vi phạm quy tắc giao thông không?",
     "imageUrl": "images/question-515-image-1.png",
     "imageUrls": [
@@ -10308,7 +10306,7 @@
     "id": 516,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Xe nào phải nhường đường trong trường hợp này?",
     "imageUrl": "images/question-516-image-1.png",
     "imageUrls": [
@@ -10318,7 +10316,7 @@
       "A": "Xe khách.",
       "B": "Xe tải."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -10328,7 +10326,7 @@
     "id": 517,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Xe nào được quyền đi trước trong trường hợp này?",
     "imageUrl": "images/question-517-image-1.png",
     "imageUrls": [
@@ -10348,7 +10346,7 @@
     "id": 518,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Xe kéo nhau trong trường hợp này đúng quy định không?",
     "imageUrl": "images/question-518-image-1.png",
     "imageUrls": [
@@ -10358,7 +10356,7 @@
       "A": "Không đúng.",
       "B": "Đúng."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -10368,7 +10366,7 @@
     "id": 519,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Theo hướng mũi tên, những hướng nào xe ô tô con được phép đi?",
     "imageUrl": "images/question-519-image-1.png",
     "imageUrls": [
@@ -10390,7 +10388,7 @@
     "id": 520,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Theo hướng mũi tên, thứ tự các xe đi như thế nào là đúng quy tắc giao thông?",
     "imageUrl": "images/question-520-image-1.png",
     "imageUrls": [
@@ -10412,7 +10410,7 @@
     "id": 521,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Theo hướng mũi tên, những hướng nào xe tải được phép đi?",
     "imageUrl": "images/question-521-image-1.png",
     "imageUrls": [
@@ -10434,7 +10432,7 @@
     "id": 522,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Những hướng nào xe tải được phép đi?",
     "imageUrl": "images/question-522-image-1.png",
     "imageUrls": [
@@ -10454,7 +10452,7 @@
     "id": 523,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Những hướng nào xe ô tô tải được phép đi?",
     "imageUrl": "images/question-523-image-1.png",
     "imageUrls": [
@@ -10476,7 +10474,7 @@
     "id": 524,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Những hướng nào xe ô tô tải được phép đi?",
     "imageUrl": "images/question-524-image-1.png",
     "imageUrls": [
@@ -10498,7 +10496,7 @@
     "id": 525,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Xe nào được quyền đi trước trong trường hợp này?",
     "imageUrl": "images/question-525-image-1.png",
     "imageUrls": [
@@ -10508,7 +10506,7 @@
       "A": "Xe mô tô.",
       "B": "Xe con."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -10518,7 +10516,7 @@
     "id": 526,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Xe ô tô con đi theo chiều mũi tên có vi phạm quy tắc giao thông không?",
     "imageUrl": "images/question-526-image-1.png",
     "imageUrls": [
@@ -10538,7 +10536,7 @@
     "id": 527,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Xe nào vi phạm quy tắc giao thông?",
     "imageUrl": "images/question-527-image-1.png",
     "imageUrls": [
@@ -10560,7 +10558,7 @@
     "id": 528,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Các xe đi như thế nào là đúng quy tắc giao thông?",
     "imageUrl": "images/question-528-image-1.png",
     "imageUrls": [
@@ -10581,7 +10579,7 @@
     "id": 529,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Theo hướng mũi tên, xe nào được phép đi?",
     "imageUrl": "images/question-529-image-1.png",
     "imageUrls": [
@@ -10603,7 +10601,7 @@
     "id": 530,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Xe con vượt xe tải như trường hợp này có đúng không?",
     "imageUrl": "images/question-530-image-1.png",
     "imageUrls": [
@@ -10613,7 +10611,7 @@
       "A": "Đúng.",
       "B": "Không đúng."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -10623,7 +10621,7 @@
     "id": 531,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Xe nào vượt đúng quy tắc giao thông?",
     "imageUrl": "images/question-531-image-1.png",
     "imageUrls": [
@@ -10644,7 +10642,7 @@
     "id": 532,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Đi theo hướng mũi tên, xe nào vi phạm quy tắc giao thông?",
     "imageUrl": "images/question-532-image-1.png",
     "imageUrls": [
@@ -10665,7 +10663,7 @@
     "id": 533,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Thứ tự các xe đi như thế nào là đúng quy tắc giao thông?",
     "imageUrl": "images/question-533-image-1.png",
     "imageUrls": [
@@ -10686,7 +10684,7 @@
     "id": 534,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Theo hướng mũi tên, thứ tự các xe đi như thế nào là đúng quy tắc giao thông?",
     "imageUrl": "images/question-534-image-1.png",
     "imageUrls": [
@@ -10697,7 +10695,7 @@
       "B": "Xe tải, xe khách, xe con.",
       "C": "Xe con, xe khách, xe tải."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -10707,7 +10705,7 @@
     "id": 535,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Những hướng nào xe ô tô tải được phép đi?",
     "imageUrl": "images/question-535-image-1.png",
     "imageUrls": [
@@ -10728,7 +10726,7 @@
     "id": 536,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Theo hướng mũi tên, thứ tự các xe đi như thế nào là đúng?",
     "imageUrl": "images/question-536-image-1.png",
     "imageUrls": [
@@ -10740,7 +10738,7 @@
       "C": "Xe công an đi làm nhiệm vụ khẩn cấp, xe con, xe khách, xe tải.",
       "D": "Xe con, xe tải, xe khách, xe công an đi làm nhiệm vụ khẩn cấp."
     },
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -10750,7 +10748,7 @@
     "id": 537,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Những hướng nào ô tô tải được phép đi?",
     "imageUrl": "images/question-537-image-1.png",
     "imageUrls": [
@@ -10772,7 +10770,7 @@
     "id": 538,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Trong hình dưới đây, xe nào chấp hành đúng quy tắc giao thông?",
     "imageUrl": "images/question-538-image-1.png",
     "imageUrls": [
@@ -10793,7 +10791,7 @@
     "id": 539,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Theo hướng mũi tên, những hướng nào xe mô tô được phép đi?",
     "imageUrl": "images/question-539-image-1.png",
     "imageUrls": [
@@ -10815,7 +10813,7 @@
     "id": 540,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Trong trường hợp này, thứ tự xe đi như thế nào là đúng quy tắc giao thông?",
     "imageUrl": "images/question-540-image-1.png",
     "imageUrls": [
@@ -10836,7 +10834,7 @@
     "id": 541,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Xe nào phải nhường đường là đúng quy tắc giao thông?",
     "imageUrl": "images/question-541-image-1.png",
     "imageUrls": [
@@ -10846,7 +10844,7 @@
       "A": "Xe A.",
       "B": "Xe B."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -10856,7 +10854,7 @@
     "id": 542,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Xe con quay đầu đi ngược lại như hình vẽ dưới có vi phạm quy tắc giao thông không?",
     "imageUrl": "images/question-542-image-1.png",
     "imageUrls": [
@@ -10876,7 +10874,7 @@
     "id": 543,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Trong hình dưới, những xe nào vi phạm quy tắc giao thông?",
     "imageUrl": "images/question-543-image-1.png",
     "imageUrls": [
@@ -10888,7 +10886,7 @@
       "C": "Xe khách (B), xe mô tô (C).",
       "D": "Xe khách (B), xe mô tô (D)."
     },
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -10898,7 +10896,7 @@
     "id": 544,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Để điều khiển cho xe đi thẳng, người lái xe phải làm gì là đúng quy tắc giao thông?",
     "imageUrl": "images/question-544-image-1.png",
     "imageUrls": [
@@ -10908,7 +10906,7 @@
       "A": "Nhường xe con rẽ trái trước.",
       "B": "Đi thẳng không nhường."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -10918,7 +10916,7 @@
     "id": 545,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Người lái xe điều khiển xe đi theo hướng nào là đúng quy tắc giao thông?",
     "imageUrl": "images/question-545-image-1.png",
     "imageUrls": [
@@ -10940,7 +10938,7 @@
     "id": 546,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Xe nào phải nhường đường là đúng quy tắc giao thông?",
     "imageUrl": "images/question-546-image-1.png",
     "imageUrls": [
@@ -10960,7 +10958,7 @@
     "id": 547,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Người lái xe điều khiển xe rẽ trái như thế nào là đúng quy tắc giao thông?",
     "imageUrl": "images/question-547-image-1.png",
     "imageUrls": [
@@ -10981,7 +10979,7 @@
     "id": 548,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Trong hình dưới, những xe nào vi phạm quy tắc giao thông?",
     "imageUrl": "images/question-548-image-1.png",
     "imageUrls": [
@@ -11003,7 +11001,7 @@
     "id": 549,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Xe nào đi trước là đúng quy tắc giao thông?",
     "imageUrl": "images/question-549-image-1.png",
     "imageUrls": [
@@ -11023,7 +11021,7 @@
     "id": 550,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Người lái xe có thể quay đầu xe như thế nào là đúng quy tắc giao thông?",
     "imageUrl": "images/question-550-image-1.png",
     "imageUrls": [
@@ -11034,7 +11032,7 @@
       "B": "Quay đầu theo hướng B.",
       "C": "Cấm quay đầu."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -11044,7 +11042,7 @@
     "id": 551,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Thứ tự các xe đi như thế nào là đúng quy tắc giao thông?",
     "imageUrl": "images/question-551-image-1.png",
     "imageUrls": [
@@ -11066,7 +11064,7 @@
     "id": 552,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Khi muốn vượt xe tải, người lái xe phải làm gì là đúng quy tắc giao thông?",
     "imageUrl": "images/question-552-image-1.png",
     "imageUrls": [
@@ -11087,7 +11085,7 @@
     "id": 553,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Theo tín hiệu đèn, xe nào phải dừng lại là đúng quy tắc giao thông?",
     "imageUrl": "images/question-553-image-1.png",
     "imageUrls": [
@@ -11108,7 +11106,7 @@
     "id": 554,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Trong hình dưới, những xe nào chấp hành quy tắc giao thông?",
     "imageUrl": "images/question-554-image-1.png",
     "imageUrls": [
@@ -11129,7 +11127,7 @@
     "id": 555,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Người lái xe có được phép vượt xe tải để đi thẳng trong trường hợp này không?",
     "imageUrl": "images/question-555-image-1.png",
     "imageUrls": [
@@ -11149,7 +11147,7 @@
     "id": 556,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Bạn có được phép vượt xe mô tô phía trước không?",
     "imageUrl": "images/question-556-image-1.png",
     "imageUrls": [
@@ -11169,7 +11167,7 @@
     "id": 557,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Người lái xe dừng tại vị trí nào là đúng quy tắc giao thông?",
     "imageUrl": "images/question-557-image-1.png",
     "imageUrls": [
@@ -11191,7 +11189,7 @@
     "id": 558,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Bạn được dừng xe ở vị trí nào trong tình huống này?",
     "imageUrl": "images/question-558-image-1.png",
     "imageUrls": [
@@ -11213,7 +11211,7 @@
     "id": 559,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Theo tín hiệu đèn của xe cơ giới, xe nào vi phạm quy tắc giao thông?",
     "imageUrl": "images/question-559-image-1.png",
     "imageUrls": [
@@ -11235,7 +11233,7 @@
     "id": 560,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Các xe đi theo hướng mũi tên, xe nào vi phạm quy tắc giao thông?",
     "imageUrl": "images/question-560-image-1.png",
     "imageUrls": [
@@ -11256,7 +11254,7 @@
     "id": 561,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Các xe đi theo hướng mũi tên, những xe nào vi phạm quy tắc giao thông?",
     "imageUrl": "images/question-561-image-1.png",
     "imageUrls": [
@@ -11277,7 +11275,7 @@
     "id": 562,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Các xe đi theo hướng mũi tên, xe nào vi phạm quy tắc giao thông?",
     "imageUrl": "images/question-562-image-1.png",
     "imageUrls": [
@@ -11299,7 +11297,7 @@
     "id": 563,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Các xe đi theo hướng mũi tên, xe nào vi phạm quy tắc giao thông?",
     "imageUrl": "images/question-563-image-1.png",
     "imageUrls": [
@@ -11311,7 +11309,7 @@
       "C": "Xe con, xe tải.",
       "D": "Xe khách, xe tải, xe con."
     },
-    "correctAnswer": "D",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -11321,7 +11319,7 @@
     "id": 564,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Trong tình huống dưới đây, để tránh xe phía trước bị hỏng đột xuất trên đường, người lái xe phải làm gì?",
     "imageUrl": "images/question-564-image-1.png",
     "imageUrls": [
@@ -11342,7 +11340,7 @@
     "id": 565,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Các xe đi theo hướng mũi tên, xe nào chấp hành đúng quy tắc giao thông?",
     "imageUrl": "images/question-565-image-1.png",
     "imageUrls": [
@@ -11364,7 +11362,7 @@
     "id": 566,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Trong hình dưới, những xe nào vi phạm quy tắc giao thông?",
     "imageUrl": "images/question-566-image-1.png",
     "imageUrls": [
@@ -11386,7 +11384,7 @@
     "id": 567,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Các xe đi theo thứ tự nào là đúng quy tắc giao thông đường bộ?",
     "imageUrl": "images/question-567-image-1.png",
     "imageUrls": [
@@ -11407,7 +11405,7 @@
     "id": 568,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Các xe đi theo thứ tự nào là đúng quy tắc giao thông đường bộ?",
     "imageUrl": "images/question-568-image-1.png",
     "imageUrls": [
@@ -11428,7 +11426,7 @@
     "id": 569,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Xe nào phải dừng lại trong trường hợp này?",
     "imageUrl": "images/question-569-image-1.png",
     "imageUrls": [
@@ -11439,7 +11437,7 @@
       "B": "Xe của bạn.",
       "C": "Cả hai xe."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -11449,7 +11447,7 @@
     "id": 570,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Xe của bạn được đi theo hướng nào trong trường hợp này?",
     "imageUrl": "images/question-570-image-1.png",
     "imageUrls": [
@@ -11461,7 +11459,7 @@
       "C": "Rẽ trái.",
       "D": "Đi thẳng, rẽ phải, rẽ trái."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -11471,7 +11469,7 @@
     "id": 571,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Xe của bạn được đi theo hướng nào trong trường hợp này?",
     "imageUrl": "images/question-571-image-1.png",
     "imageUrls": [
@@ -11492,7 +11490,7 @@
     "id": 572,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Bạn xử lý như thế nào trong trường hợp này?",
     "imageUrl": "images/question-572-image-1.png",
     "imageUrls": [
@@ -11513,7 +11511,7 @@
     "id": 573,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Bạn xử lý như thế nào trong trường hợp này?",
     "imageUrl": "images/question-573-image-1.png",
     "imageUrls": [
@@ -11534,7 +11532,7 @@
     "id": 574,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Bạn xử lý như thế nào trong trường hợp này?",
     "imageUrl": "images/question-574-image-1.png",
     "imageUrls": [
@@ -11555,7 +11553,7 @@
     "id": 575,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Xe nào phải nhường đường trong trường hợp này?",
     "imageUrl": "images/question-575-image-1.png",
     "imageUrls": [
@@ -11576,7 +11574,7 @@
     "id": 576,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Xe nào phải nhường đường trong trường hợp này?",
     "imageUrl": "images/question-576-image-1.png",
     "imageUrls": [
@@ -11596,7 +11594,7 @@
     "id": 577,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Bạn xử lý như thế nào khi lái xe ô tô vượt qua đoàn người đi xe đạp có tổ chức?",
     "imageUrl": "images/question-577-image-1.png",
     "imageUrls": [
@@ -11616,7 +11614,7 @@
     "id": 578,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Phía trước có một xe đang lùi vào nơi đỗ, xe con phía trước đang chuyển sang làn đường bên trái, bạn xử lý như thế nào trong trường hợp này?",
     "imageUrl": "images/question-578-image-1.png",
     "imageUrls": [
@@ -11638,7 +11636,7 @@
     "id": 579,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Bạn xử lý như thế nào khi xe phía trước đang lùi ra khỏi nơi đỗ?",
     "imageUrl": "images/question-579-image-1.png",
     "imageUrls": [
@@ -11659,7 +11657,7 @@
     "id": 580,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Phía trước có một xe màu xanh đang vượt xe màu vàng trên làn đường của bạn, bạn xử lý như thế nào trong trường hợp này?",
     "imageUrl": "images/question-580-image-1.png",
     "imageUrls": [
@@ -11670,7 +11668,7 @@
       "B": "Bấm còi, nháy đèn báo hiệu, giữ nguyên tốc độ và đi tiếp.",
       "C": "Phanh xe giảm tốc độ và đi sát vào lề đường bên trái."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -11680,7 +11678,7 @@
     "id": 581,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Xe tải phía trước có tín hiệu xin chuyển làn đường, bạn xử lý như thế nào trong trường hợp này?",
     "imageUrl": "images/question-581-image-1.png",
     "imageUrls": [
@@ -11701,7 +11699,7 @@
     "id": 582,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Bạn xử lý như thế nào trong trường hợp này?",
     "imageUrl": "images/question-582-image-1.png",
     "imageUrls": [
@@ -11722,7 +11720,7 @@
     "id": 583,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Các xe đi theo thứ tự nào là đúng quy tắc giao thông đường bộ?",
     "imageUrl": "images/question-583-image-1.png",
     "imageUrls": [
@@ -11743,7 +11741,7 @@
     "id": 584,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Các xe đi theo thứ tự nào là đúng quy tắc giao thông đường bộ?",
     "imageUrl": "images/question-584-image-1.png",
     "imageUrls": [
@@ -11765,7 +11763,7 @@
     "id": 585,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Xe nào phải nhường đường trong trường hợp này?",
     "imageUrl": "images/question-585-image-1.png",
     "imageUrls": [
@@ -11775,7 +11773,7 @@
       "A": "Xe của bạn.",
       "B": "Xe con."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -11785,7 +11783,7 @@
     "id": 586,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Xe nào phải nhường đường trong trường hợp này?",
     "imageUrl": "images/question-586-image-1.png",
     "imageUrls": [
@@ -11805,7 +11803,7 @@
     "id": 587,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Bạn xử lý như thế nào trong trường hợp này?",
     "imageUrl": "images/question-587-image-1.png",
     "imageUrls": [
@@ -11826,7 +11824,7 @@
     "id": 588,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Xe nào được đi trước trong trường hợp này?",
     "imageUrl": "images/question-588-image-1.png",
     "imageUrls": [
@@ -11846,7 +11844,7 @@
     "id": 589,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Các xe đi theo thứ tự nào là đúng quy tắc giao thông đường bộ?",
     "imageUrl": "images/question-589-image-1.png",
     "imageUrls": [
@@ -11867,7 +11865,7 @@
     "id": 590,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Bạn xử lý như thế nào trong trường hợp này?",
     "imageUrl": "images/question-590-image-1.png",
     "imageUrls": [
@@ -11888,7 +11886,7 @@
     "id": 591,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Xe nào được đi trước trong trường hợp này?",
     "imageUrl": "images/question-591-image-1.png",
     "imageUrls": [
@@ -11898,7 +11896,7 @@
       "A": "Xe tải.",
       "B": "Xe của bạn."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -11908,7 +11906,7 @@
     "id": 592,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Xe nào dừng đúng theo quy tắc giao thông?",
     "imageUrl": "images/question-592-image-1.png",
     "imageUrls": [
@@ -11919,7 +11917,7 @@
       "B": "Xe mô tô.",
       "C": "Cả 2 xe đều đúng."
     },
-    "correctAnswer": "C",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -11929,7 +11927,7 @@
     "id": 593,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Các xe đi theo thứ tự nào là đúng quy tắc giao thông đường bộ?",
     "imageUrl": "images/question-593-image-1.png",
     "imageUrls": [
@@ -11950,7 +11948,7 @@
     "id": 594,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Để điều khiển xe rẽ trái, bạn chọn hướng đi nào dưới đây?",
     "imageUrl": "images/question-594-image-1.png",
     "imageUrls": [
@@ -11971,7 +11969,7 @@
     "id": 595,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Khi gặp xe ngược chiều bật đèn pha trong tình huống dưới dây, bạn xử lý như thế nào?",
     "imageUrl": "images/question-595-image-1.png",
     "imageUrls": [
@@ -11992,7 +11990,7 @@
     "id": 596,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Xe của bạn đang di chuyển gần đến khu vực giao cắt với đường sắt, khi rào chắn đang dịch chuyển, bạn điều khiển xe như thế nào là đúng quy tắc giao thông?",
     "imageUrl": "images/question-596-image-1.png",
     "imageUrls": [
@@ -12013,7 +12011,7 @@
     "id": 597,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Trong tình huống dưới đây, xe con màu đỏ nhập làn đường cao tốc theo hướng mũi tên là đúng hay sai?",
     "imageUrl": "images/question-597-image-1.png",
     "imageUrls": [
@@ -12033,7 +12031,7 @@
     "id": 598,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Trong tình huống dưới đây, xe con màu đỏ có được phép vượt khi xe con màu xanh đang vượt xe tải hay không?",
     "imageUrl": "images/question-598-image-1.png",
     "imageUrls": [
@@ -12053,7 +12051,7 @@
     "id": 599,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Trong tình huống dưới đây, xe con màu vàng vượt xe con màu đỏ là đúng quy tắc giao thông hay không?",
     "imageUrl": "images/question-599-image-1.png",
     "imageUrls": [
@@ -12063,7 +12061,7 @@
       "A": "Đúng.",
       "B": "Không đúng."
     },
-    "correctAnswer": "B",
+    "correctAnswer": "A",
     "explanation": "",
     "memoryTip": "",
     "isCritical": false,
@@ -12073,7 +12071,7 @@
     "id": 600,
     "licenseType": "B",
     "category": "Giải thế sa hình và kỹ năng xử lý tình huống giao thông",
-    "categoryCode": "situations",
+    "categoryCode": "traffic_situations",
     "questionText": "Trong tình huống dưới đây, xe đầu kéo kéo rơ moóc (xe container) đang rẽ phải, xe con màu xanh và xe máy phía sau xe container đi như thế nào để bảo đảm an toàn?",
     "imageUrl": "images/question-600-image-1.png",
     "imageUrls": [
