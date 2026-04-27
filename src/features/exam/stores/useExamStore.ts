@@ -269,15 +269,20 @@ export const useExamStore = create<ExamState>((set, get) => ({
         ...answers,
         [normalizedQuestionId]: selectedAnswer,
       },
+      result: null,
     })
 
     persistCurrentExam()
   },
 
   submitExam: () => {
-    const { licenseType, questions, answers } = get()
+    const { licenseType, questions, answers, isSubmitted } = get()
+
+    if (isSubmitted) return
+
     const config = getExamConfig(licenseType)
-    const result = calculateExamResult(questions, answers, config)
+    const latestAnswers = { ...answers }
+    const result = calculateExamResult(questions, latestAnswers, config)
     const candidate = useCandidateStore.getState().candidate
     const submittedAt = new Date().toISOString()
     const questionIds = questions.map((question) => Number(question.id))
@@ -297,7 +302,7 @@ export const useExamStore = create<ExamState>((set, get) => ({
       registrationNumber: candidate?.registrationNumber,
       licenseType,
       result,
-      answers,
+      answers: latestAnswers,
       questionIds,
       submittedAt,
     })
@@ -315,7 +320,7 @@ export const useExamStore = create<ExamState>((set, get) => ({
       passScore: result.passScore,
       criticalWrong: result.criticalWrong,
       questionIds,
-      answers,
+      answers: latestAnswers,
       submittedAt,
       source: window.location.href,
     }).catch((error) => {
