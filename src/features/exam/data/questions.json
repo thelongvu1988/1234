@@ -3432,24 +3432,24 @@
     "difficulty": 1
   },
   {
-    "id": 180,
-    "licenseType": "B",
-    "category": "Quy định chung và quy tắc giao thông đường bộ",
-    "categoryCode": "rules",
-    "questionText": "Xe cứu hộ giao thông đường bộ cần thực hiện yêu cầu nào sau đây để bảo đảm trật tự an toàn giao thông?",
-    "imageUrl": "",
-    "imageUrls": [],
-    "answers": {
-      "A": "Xe cứu hộ giao thông đường bộ phải có dấu hiệu nhận diện, niêm yết thông tin trên xe, gắn thiết bị giám sát hành trình và thiết bị ghi nhận hình ảnh người lái xe.",
-      "B": "Phải tuân thủ quy định của pháp luật về khối lượng hàng hóa chuyên chở của xe cứu hộ và khối lượng của xe được cứu hộ ghi trên Chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường.",
-      "C": "Cả hai ý trên. NĂNG PHÒNG CHÁY, CHỮA CHÁY VÀ CỨU HỘ, CỨU NẠN"
-    },
-    "correctAnswer": "C",
-    "explanation": "",
-    "memoryTip": "",
-    "isCritical": false,
-    "difficulty": 1
+  "id": 180,
+  "licenseType": "B",
+  "category": "Quy định chung và quy tắc giao thông đường bộ",
+  "categoryCode": "rules",
+  "questionText": "Xe cứu hộ giao thông đường bộ cần thực hiện yêu cầu nào sau đây để bảo đảm trật tự an toàn giao thông?",
+  "imageUrl": "",
+  "imageUrls": [],
+  "answers": {
+    "A": "Xe cứu hộ giao thông đường bộ phải có dấu hiệu nhận diện, niêm yết thông tin trên xe, gắn thiết bị giám sát hành trình và thiết bị ghi nhận hình ảnh người lái xe.",
+    "B": "Phải tuân thủ quy định của pháp luật về khối lượng hàng hóa chuyên chở của xe cứu hộ và khối lượng của xe được cứu hộ ghi trên Chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường.",
+    "C": "Cả hai ý trên."
   },
+  "correctAnswer": "C",
+  "explanation": "",
+  "memoryTip": "",
+  "isCritical": false,
+  "difficulty": 1
+ },
   {
     "id": 181,
     "licenseType": "B",
@@ -4787,24 +4787,25 @@
     "difficulty": 1
   },
   {
-    "id": 251,
-    "licenseType": "B",
-    "category": "Kỹ thuật lái xe",
-    "categoryCode": "driving_technique",
-    "questionText": "Trên đường đôi muốn vượt xe kéo rơ moóc phía trước, người lái xe phải xử lý như thế nào?",
-    "imageUrl": "",
-    "imageUrls": [],
-    "answers": {
-      "A": "Giữ khoảng cách an toàn, tránh đi vào vị trí điểm mù của xe kéo rơ moóc, bật xi nhan trái đồng thời kết hợp đèn, còi xin vượt.",
-      "B": "Khi xe kéo rơ moóc đã có tín hiệu cho vượt (không có chướng ngại vật phía trước và xe đi ngược chiều), thấy đủ điều kiện an toàn thì vượt dứt khoát, không di chuyển song song bên cạnh xe kéo rơ moóc.",
-      "C": "Khi vượt qua, phải quan sát gương chiếu hậu bên phải nếu có khoảng trống an toàn mới được cho xe chạy vào làn của mình, tắt xi nhan và tiếp tục hành trình. 4. Cả ba ý trên."
-    },
-    "correctAnswer": "C",
-    "explanation": "",
-    "memoryTip": "",
-    "isCritical": false,
-    "difficulty": 1
+  "id": 251,
+  "licenseType": "B",
+  "category": "Kỹ thuật lái xe",
+  "categoryCode": "driving_technique",
+  "questionText": "Trên đường đôi muốn vượt xe kéo rơ moóc phía trước, người lái xe phải xử lý như thế nào?",
+  "imageUrl": "",
+  "imageUrls": [],
+  "answers": {
+    "A": "Giữ khoảng cách an toàn, tránh đi vào vị trí điểm mù của xe kéo rơ moóc, bật xi nhan trái đồng thời kết hợp đèn, còi xin vượt.",
+    "B": "Khi xe kéo rơ moóc đã có tín hiệu cho vượt (không có chướng ngại vật phía trước và xe đi ngược chiều), thấy đủ điều kiện an toàn thì vượt dứt khoát, không di chuyển song song bên cạnh xe kéo rơ moóc.",
+    "C": "Khi vượt qua, phải quan sát gương chiếu hậu bên phải nếu có khoảng trống an toàn mới được cho xe chạy vào làn của mình, tắt xi nhan và tiếp tục hành trình.",
+    "D": "Cả ba ý trên."
   },
+  "correctAnswer": "D",
+  "explanation": "",
+  "memoryTip": "",
+  "isCritical": false,
+  "difficulty": 1
+ },
   {
     "id": 252,
     "licenseType": "B",
@@ -6852,24 +6853,26 @@
     "difficulty": 1
   },
   {
-    "id": 352,
-    "licenseType": "B",
-    "category": "Báo hiệu đường bộ",
-    "categoryCode": "road_signs",
-    "questionText": "Biển nào báo hiệu chiều dài đoạn đường phải giữ cự ly tối thiểu giữa hai xe?",
-    "imageUrl": "images/question-352-image-1.png",
-    "imageUrls": [
-      "images/question-352-image-1.png"
-    ],
-    "answers": {
-      "A": "Biển 1. 2. Biển 2. 3. Cả hai biển."
-    },
-    "correctAnswer": "A",
-    "explanation": "",
-    "memoryTip": "",
-    "isCritical": false,
-    "difficulty": 1
+  "id": 352,
+  "licenseType": "B",
+  "category": "Báo hiệu đường bộ",
+  "categoryCode": "road_signs",
+  "questionText": "Biển nào báo hiệu chiều dài đoạn đường phải giữ cự ly tối thiểu giữa hai xe?",
+  "imageUrl": "images/question-352-image-1.png",
+  "imageUrls": [
+    "images/question-352-image-1.png"
+  ],
+  "answers": {
+    "A": "Biển 1.",
+    "B": "Biển 2.",
+    "C": "Cả hai biển."
   },
+  "correctAnswer": "C",
+  "explanation": "",
+  "memoryTip": "",
+  "isCritical": false,
+  "difficulty": 1
+ },
   {
     "id": 353,
     "licenseType": "B",
@@ -9652,26 +9655,26 @@
     "difficulty": 1
   },
   {
-    "id": 485,
-    "licenseType": "B",
-    "category": "Báo hiệu đường bộ",
-    "categoryCode": "road_signs",
-    "questionText": "Vạch dưới đây có ý nghĩa như thế nào?",
-    "imageUrl": "images/question-485-image-1.png",
-    "imageUrls": [
-      "images/question-485-image-1.png"
-    ],
-    "answers": {
-      "A": "Vị trí dừng xe của các phương tiện vận tải hành khách công cộng.",
-      "B": "Báo cho người điều khiển được dừng phương tiện trong phạm vi phần mặt đường có bố trí vạch để tránh ùn tắc giao thông.",
-      "C": "Dùng để xác định vị trí giữa các phương tiện trên đường. TÌNH HUỐNG GIAO THÔNG"
-    },
-    "correctAnswer": "A",
-    "explanation": "",
-    "memoryTip": "",
-    "isCritical": false,
-    "difficulty": 1
+  "id": 485,
+  "licenseType": "B",
+  "category": "Báo hiệu đường bộ",
+  "categoryCode": "road_signs",
+  "questionText": "Vạch dưới đây có ý nghĩa như thế nào?",
+  "imageUrl": "images/question-485-image-1.png",
+  "imageUrls": [
+    "images/question-485-image-1.png"
+  ],
+  "answers": {
+    "A": "Vị trí dừng xe của các phương tiện vận tải hành khách công cộng.",
+    "B": "Báo cho người điều khiển được dừng phương tiện trong phạm vi phần mặt đường có bố trí vạch để tránh ùn tắc giao thông.",
+    "C": "Dùng để xác định vị trí giữa các phương tiện trên đường."
   },
+  "correctAnswer": "C",
+  "explanation": "",
+  "memoryTip": "",
+  "isCritical": false,
+  "difficulty": 1
+ },
   {
     "id": 486,
     "licenseType": "B",
